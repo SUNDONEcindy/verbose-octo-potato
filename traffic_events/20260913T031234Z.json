@@ -1,0 +1,33 @@
+{
+  "node": "SUNDONEcindy/verbose-octo-potato",
+  "slot": "20",
+  "probe_rounds": 1,
+  "timestamp": "2026-09-13T03:12:34Z",
+  "results": [
+    {"pid":"1045285536976","round":1,"http_code":302,"elapsed_s":0.357424,"redirects":0,"up":true}
+    ,
+    {"pid":"1051443785486","round":1,"http_code":302,"elapsed_s":0.193885,"redirects":0,"up":true}
+    ,
+    {"pid":"1055272192360","round":1,"http_code":302,"elapsed_s":0.197090,"redirects":0,"up":true}
+    ,
+    {"pid":"1056343383874","round":1,"http_code":302,"elapsed_s":0.194438,"redirects":0,"up":true}
+    ,
+    {"pid":"1057028184538","round":1,"http_code":302,"elapsed_s":0.195173,"redirects":0,"up":true}
+    ,
+    {"pid":"1059036808911","round":1,"http_code":302,"elapsed_s":0.196249,"redirects":0,"up":true}
+    ,
+    {"pid":"1059798887756","round":1,"http_code":302,"elapsed_s":0.195588,"redirects":0,"up":true}
+    ,
+    {"pid":"1060214802605","round":1,"http_code":302,"elapsed_s":0.195703,"redirects":0,"up":true}
+    ,
+    {"pid":"1060285671386","round":1,"http_code":302,"elapsed_s":0.194014,"redirects":0,"up":true}
+    ,
+    {"pid":"1061217153671","round":1,"http_code":302,"elapsed_s":0.192608,"redirects":0,"up":true}
+    ,
+    {"pid":"1061810629923","round":1,"http_code":302,"elapsed_s":0.197718,"redirects":0,"up":true}
+    ,
+    {"pid":"1067381684786","round":1,"http_code":302,"elapsed_s":0.196567,"redirects":0,"up":true}
+    ,
+    {"pid":"1071695794375","round":1,"http_code":302,"elapsed_s":0.193657,"redirects":0,"up":true}
+  ]
+}
